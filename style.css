@@ -1,0 +1,56 @@
+
+.body{
+    background-image: url(./images/dynamic.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.div{
+    /* background-color: rgb(238, 218, 182); */
+    width: 800px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 10px;
+    color: white;
+}
+
+.divv{
+    background-color: rgba(238, 218, 182, 0.582);
+    width: 800px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 100px;
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+    font-family: Gabriola;
+}
+
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+.footer{
+    display: inline-block;
+    background-color: rgb(75, 72, 72);
+    text-decoration: none;
+    margin-top: 5.5%;
+    padding-left: 20px;
+    padding-top: 5px;
+    height: 35px;
+    width: 100%;
+    color: white;
+    word-spacing: 10px;
+}
+
+.align{
+    float: right;
+    margin-right: 50px;
+    word-spacing: 30px;
+}
